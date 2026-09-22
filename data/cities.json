@@ -4,13 +4,25 @@
       "cityName": "Buldana",
       "country": "India",
       "emoji": "🇮🇳",
-      "date": "2026-09-21T02:52:33.912Z",
-      "notes": "this is my location",
+      "date": "2026-09-22T03:39:55.018Z",
+      "notes": "",
       "position": {
-        "lat": 20.528647047695674,
-        "lng": 76.18194580078126
+        "lat": 20.529290087784478,
+        "lng": 76.17919921875001
       },
-      "id": "-O1zi_5icHk"
+      "id": "1OF03yIQ2_U"
+    },
+    {
+      "cityName": "Pathardi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2026-09-22T05:05:21.445Z",
+      "notes": "",
+      "position": {
+        "lat": 19.062117883514652,
+        "lng": 75.14648437500001
+      },
+      "id": "3Yivck_-QGM"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
